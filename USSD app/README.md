@@ -18,10 +18,10 @@ USSD (Unstructured Supplementary Service Data) is a protocol used by GSM cellpho
 
 ## Now how do I use your USSD app?
 
-    Step 1: Install the Africa's Talking mobile app.
+    Step 1: Visit https://simulator.africastalking.com/ or install the Africa's Talking mobile app.
     Step 2: Tap on USSD tile.
     Step 3: Enter *384*19800# USSD code.
     Step 4: Hit call.
     Step 5: Voila! You're in the USSD application.
     
-## Note: If not accessed for some time, the Heroku Server takes some seconds waking up, so your first call can take a few seconds to load.
+#### Note: If not accessed for some time, the Heroku Server takes some seconds waking up, so your first call can take a few seconds to load.
