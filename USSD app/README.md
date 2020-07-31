@@ -14,8 +14,7 @@ USSD (Unstructured Supplementary Service Data) is a protocol used by GSM cellpho
 * It is not mobile software or SIM based. This means it can run without either, and just needs a connection to the GSM network.
 * Easily customised to suit your business needs.
 
-## Note: India has 550 million feature phone users, while there are only 450 million smartphone users.
-
+## Note: [India has 550 million feature phone users, while there are only 450 million smartphone users.](https://economictimes.indiatimes.com/tech/hardware/overall-india-handset-market-growth-to-fall-in-2020/articleshow/72950192.cms)
 ## Now how do I use your USSD app?
 
     Step 1: Visit https://simulator.africastalking.com/ or install the Africa's Talking mobile app.
