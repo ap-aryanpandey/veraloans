@@ -13,3 +13,15 @@ USSD (Unstructured Supplementary Service Data) is a protocol used by GSM cellpho
 * USSD codes work across all your cellular networks.
 * It is not mobile software or SIM based. This means it can run without either, and just needs a connection to the GSM network.
 * Easily customised to suit your business needs.
+
+## Note: India has 550 million feature phone users, while there are only 450 million smartphone users.
+
+## Now how do I use your USSD app?
+
+    Step 1: Install the Africa's Talking mobile app.
+    Step 2: Tap on USSD tile.
+    Step 3: Enter *384*19800# USSD code.
+    Step 4: Hit call.
+    Step 5: Voila! You're in the USSD application.
+    
+## Note: If not accessed for some time, the Heroku Server takes some seconds waking up, so your first call can take a few seconds to load.
