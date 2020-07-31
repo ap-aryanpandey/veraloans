@@ -1,4 +1,7 @@
-# Veraloans
+<p align="center">
+  <img width="300"  src="images/Vera.png">
+  <h1 align= "center">Vera Loans</h1>
+</p>
 
 Tagline
 
