@@ -82,10 +82,10 @@ Actor-preference based incentives to promote AA adoption.
 # Teams
  <img src="images/team.png">
  
- * ##Devansh Swarup
+ * ### Devansh Swarup
      Next Tech Lab
    [<img src="images/linkedin.png">](https://in.linkedin.com/in/devansh-swarup-85436554)     [<img src="images/github.png">](https://github.com/devansh2712)
- * ## Dhruv Upadhyay
+ * ### Dhruv Upadhyay
       Next Tech Lab
    [<img src="images/linkedin.png">](https://www.linkedin.com/in/intmanear/)     [<img src="images/github.png">](https://github.com/IntManear)
  * ### Shobit Puri 
