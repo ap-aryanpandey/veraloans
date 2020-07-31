@@ -4,20 +4,14 @@
    <h2 align= "center">SMALL LOANS AT SCALE MADE EASY</h2>
 
 
-SMALL LOANS AT SCALE MADE EASY
  
-# LINKS
+## Deliverables
 
-# Video
-https://tinyurl.com/veraloansvideo
-
-## Pitch Deck
-
-https://drive.google.com/file/d/1SpQLnk9zl6defA-PrjlF1pchV-Jge8sM/view?usp=sharing
-
-## Architecture and Design
+* ### [Video:](https://tinyurl.com/veraloansvideo)
+* ###[Pitch Deck:](https://drive.google.com/file/d/1SpQLnk9zl6defA-PrjlF1pchV-Jge8sM/view?usp=sharing)
+* ### [Architecture and Design:](https://drive.google.com/file/d/1fZoV5v_9YnM-wQ68-bVAM2aeXZFEq0lW/view?usp=sharing)
  
-https://drive.google.com/file/d/1fZoV5v_9YnM-wQ68-bVAM2aeXZFEq0lW/view?usp=sharing
+
  
 ## Summary:
 
