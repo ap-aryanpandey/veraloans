@@ -1,7 +1,7 @@
 # Veraloans USSD app
 
 ## What is a USSD application?
-    USSD (Unstructured Supplementary Service Data) is a protocol used by GSM cellphones to communicate with their service provider’s computers via text messages. We commonly use it to check mobile airtime and data balance enquiries, or to receive one-time passwords or PIN codes, among many applications.
+USSD (Unstructured Supplementary Service Data) is a protocol used by GSM cellphones to communicate with their service provider’s computers via text messages. We commonly use it to check mobile airtime and data balance enquiries, or to receive one-time passwords or PIN codes, among many applications.
     
 ## Why USSD?
 
