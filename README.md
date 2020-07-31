@@ -80,7 +80,7 @@ Actor-preference based incentives to promote AA adoption.
  <img src="images/Vera Loans.png" width="300">
 
 # Teams
- <img src="images/team.png" width="300">
+ <img src="images/team.png">
  
  * ### Devansh Swarup 
    [<img src="images/linkedin.png">](https://in.linkedin.com/in/devansh-swarup-85436554)     [<img src="images/github.png">](https://github.com/devansh2712)
