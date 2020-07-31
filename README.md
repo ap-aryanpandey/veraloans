@@ -78,3 +78,17 @@ Actor-preference based incentives to promote AA adoption.
 ### USSD
 
  <img src="images/Vera Loans.png" width="300">
+
+# Teams
+ <img src="images/team.png" width="300">
+ 
+ * ### Devansh Swarup 
+   [<img src="images/linkedin.png">](https://in.linkedin.com/in/devansh-swarup-85436554)     [<img src="images/github.png">](https://github.com/devansh2712)
+ * ### Dhruv Upadhyay
+   [<img src="images/linkedin.png">](https://www.linkedin.com/in/intmanear/)     [<img src="images/github.png">](https://github.com/IntManear)
+ * ### Shobit Puri 
+   [<img src="images/linkedin.png">](https://www.linkedin.com/in/shobit-puri-3b30bb18b/)     [<img src="images/github.png">](https://github.com/ScarletSpidey)
+* ### Aryan Pandey 
+   [<img src="images/linkedin.png">](https://www.linkedin.com/in/aryan-pandey/)     [<img src="images/github.png">](https://github.com/ap-aryanpandey)
+* ### Sathya Krishansamy
+   [<img src="images/linkedin.png">](https://www.linkedin.com/in/sathya-krishnasamy-3b369a20/) 
