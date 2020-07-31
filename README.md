@@ -4,17 +4,17 @@ Tagline
 
 SMALL LOANS AT SCALE MADE EASY
  
-#LINKS
+# LINKS
 
-Pitch Deck
+## Pitch Deck
 
 https://drive.google.com/file/d/1SpQLnk9zl6defA-PrjlF1pchV-Jge8sM/view?usp=sharing
 
-Architecture and Design
+## Architecture and Design
  
 https://drive.google.com/file/d/1fZoV5v_9YnM-wQ68-bVAM2aeXZFEq0lW/view?usp=sharing
  
-Summary:
+## Summary:
 
 Problem Statement: Almost 90 percent of small businesses in India still have no links with formal financial institutions. 
 
@@ -28,7 +28,7 @@ Problem Statement: Almost 90 percent of small businesses in India still have no 
                           validate small business workflow and cashflow needs and their veracity on adequate amounts AT THE TIME OF NEED
                           adaptive decision making tools to quickly respond to macro economic events
 
-Research:
+## Research:
   
           Loans to  micro and small businesses shrinking even through 2020. Banks have started to reduce working capital limits, increase risk premium — 
           thereby charging effective interest of over 16% — and insist on additional security when these SMEs are not even generating positive Ebitda
@@ -38,7 +38,7 @@ Research:
 Even Government loan schemes are finding it difficult to disburse credit to low ticket borrowers, a key for recovery in India.
 
 
-Reasons: 
+## Reasons: 
 
 Low Credit Literacy, Awareness and ease of use and convenience tools for accessing credit. 
 
@@ -49,7 +49,7 @@ Rigid and outdated methods for underwriting. Banks need to focus on repayment ca
 High Loan originating , processing and maintenance costs for Lenders, due to non-standard and often archaic integrations.
 
 
-Solution:
+## Solution:
 
 Loan services platform (AA Client) leveraging  Account Aggregator Framework initiated in India, with the following enablers
 
