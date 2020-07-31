@@ -6,6 +6,9 @@ SMALL LOANS AT SCALE MADE EASY
  
 # LINKS
 
+# Video
+https://tinyurl.com/veraloansvideo
+
 ## Pitch Deck
 
 https://drive.google.com/file/d/1SpQLnk9zl6defA-PrjlF1pchV-Jge8sM/view?usp=sharing
