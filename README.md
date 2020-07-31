@@ -1,9 +1,5 @@
 # Veraloans
 
-Project Name
- 
-VERALOANS 
- 
 Tagline
 
 SMALL LOANS AT SCALE MADE EASY
