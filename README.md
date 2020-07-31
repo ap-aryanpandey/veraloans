@@ -5,7 +5,7 @@
 
 
  
-## Deliverables
+## Deliverables:
 
 * ### [Video:](https://tinyurl.com/veraloansvideo)
 * ### [Pitch Deck:](https://drive.google.com/file/d/1SpQLnk9zl6defA-PrjlF1pchV-Jge8sM/view?usp=sharing)
@@ -68,3 +68,9 @@ Operational framework in the platform to increase inclusivity.
 
 Actor-preference based incentives to promote AA adoption.
  
+# Screenshot:
+
+<img src="images/screencapture-127-0-0-1-5500-client-pages-KiranaLogin-html-2020-08-01-00_14_52.png" width="450"> <img src="images/screencapture-127-0-0-1-5500-client-pages-KiranaDash-html-2020-08-01-00_16_29.png" width="450">
+<img src="images/screencapture-127-0-0-1-5500-client-pages-ConsenConfirmation-html-2020-08-01-00_16_43.png" width="450"> <img src="images/screencapture-127-0-0-1-5500-client-pages-ConsentLoading-html-2020-08-01-00_17_03.png" width="450">
+<img src="images/screencapture-127-0-0-1-5500-client-pages-LoanProcessorDash2-html-2020-08-01-00_17_23.png" width="450"> <img src="images/screencapture-127-0-0-1-5500-client-pages-LPCustomerDetails-html-2020-08-01-00_17_40.png" width="450">
+<img src="images/screencapture-127-0-0-1-5500-client-pages-LPCustomerDetails-html-2020-08-01-00_17_40.png" width="450"> <img src="images/screencapture-127-0-0-1-5500-client-pages-LoanConfigurationScreen-html-2020-08-01-00_17_57.png" width="450">
