@@ -9,8 +9,14 @@ Tagline
 SMALL LOANS AT SCALE MADE EASY
  
 #LINKS
+
+Deck
+
+https://drive.google.com/file/d/1SpQLnk9zl6defA-PrjlF1pchV-Jge8sM/view?usp=sharing
+
+Arch
  
- https://drive.google.com/file/d/1Hu3PO0QZRNbBSj60E4upQgJjr9QGebaw/view?usp=sharing
+https://drive.google.com/file/d/1fZoV5v_9YnM-wQ68-bVAM2aeXZFEq0lW/view?usp=sharing
  
 Summary:
 
