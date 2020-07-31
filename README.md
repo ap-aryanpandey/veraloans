@@ -1,5 +1,5 @@
-# veraloans
-# veraloans
+# Veraloans
+
 Project Name
  
 VERALOANS 
@@ -10,11 +10,11 @@ SMALL LOANS AT SCALE MADE EASY
  
 #LINKS
 
-Deck
+Pitch Deck
 
 https://drive.google.com/file/d/1SpQLnk9zl6defA-PrjlF1pchV-Jge8sM/view?usp=sharing
 
-Arch
+Architecture and Design
  
 https://drive.google.com/file/d/1fZoV5v_9YnM-wQ68-bVAM2aeXZFEq0lW/view?usp=sharing
  
