@@ -8,6 +8,9 @@ Tagline
 
 SMALL LOANS AT SCALE MADE EASY
  
+#LINKS
+ 
+ https://drive.google.com/file/d/1Hu3PO0QZRNbBSj60E4upQgJjr9QGebaw/view?usp=sharing
  
 Summary:
 
