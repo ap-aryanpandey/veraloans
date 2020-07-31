@@ -1,9 +1,8 @@
 <p align="center">
   <img width="300"  src="images/Vera.png">
   <h1 align= "center">Vera Loans</h1>
-</p>
+   <h2 align= "center">SMALL LOANS AT SCALE MADE EASY</h2>
 
-Tagline
 
 SMALL LOANS AT SCALE MADE EASY
  
