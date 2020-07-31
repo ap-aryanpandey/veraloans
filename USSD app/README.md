@@ -1,1 +1,1 @@
-# veraloans
+# Veraloans USSD app
