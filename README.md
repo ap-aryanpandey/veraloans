@@ -7,7 +7,7 @@
  
 ## Deliverables:
 
-* ### [Video:](https://tinyurl.com/veraloansvideo)
+* ### [Video:](https://www.youtube.com/watch?v=pnLwENooA0U&feature=youtu.be)
 * ### [Pitch Deck:](https://www.canva.com/design/DAEDe4V14us/ezgpW04kFe1Ua9T62TLfYg/view?utm_content=DAEDe4V14us&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 * ### [Architecture and Design:](https://drive.google.com/file/d/1fZoV5v_9YnM-wQ68-bVAM2aeXZFEq0lW/view?usp=sharing)
  
