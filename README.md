@@ -18,7 +18,7 @@
 Problem Statement: Almost 90 percent of small businesses in India still have no links with formal financial institutions. 
 
      Primary reasons are 
-          for borrowers - borrowers to not have 
+          for borrowers - borrowers do not have 
                            adequate tools for consent managemen 
                            and networks infrastrucure to promote financial inclusion
           
