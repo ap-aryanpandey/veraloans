@@ -4,12 +4,7 @@
    <h2 align= "center">SMALL LOANS AT SCALE MADE EASY</h2>
 
 
- 
-## Deliverables:
 
-* ### [Video:](https://youtu.be/_h9UnzbAu2Y)
-* ### [Pitch Deck:](https://drive.google.com/file/d/1SpQLnk9zl6defA-PrjlF1pchV-Jge8sM/view?usp=sharing)
-* ### [Architecture and Design:](https://drive.google.com/file/d/1fZoV5v_9YnM-wQ68-bVAM2aeXZFEq0lW/view?usp=sharing)
  
 
  
